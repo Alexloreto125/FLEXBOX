@@ -28,3 +28,18 @@ nav ul {
   flex-direction: column;
   align-items: center;
 }
+main h1 {
+  text-align: center;
+}
+main img {
+  width: 80%;
+  border-radius: 50px;
+}
+main div {
+  background-color: #fef7e2;
+  border-radius: 30px;
+  display: inline-flex;
+}
+main {
+  flex-direction: column;
+}
